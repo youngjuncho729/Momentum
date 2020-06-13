@@ -1,2 +1,2 @@
 # Momentum
-Momentum Google Chrome app
+Momentum (TODO list, Time, Weather) Google Chrome app
